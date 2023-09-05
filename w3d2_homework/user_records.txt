@@ -1,0 +1,21 @@
+John Doe, 25, United States
+Jane Smith, 30, Canada
+Invalid data
+John Adams; 45; United Kingdom
+, 20, 
+Megan Brown, 35, Australia
+Data not available
+Mike Wilson, , United States
+Sarah Johnson, 40, 
+Paul Clark 50 Germany
+Emily Davis:32:France
+45, United States
+Invalid Record
+Alex White, 25, 
+, , Germany
+Julia Robinson, 37, South Africa
+Fred Thompson; ; United Kingdom
+24, India
+John Adams : 45 : United Kingdom
+Sarah Johnson,40
+Sarah Johnson 40 
